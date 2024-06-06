@@ -1,0 +1,16 @@
+export const font = {
+  InterBlack: 'Inter-Black',
+  InterBold: 'Inter-Bold',
+  InterExtraBold: 'Inter-ExtraBold',
+  InterExtraLight: 'Inter-ExtraLight',
+  InterLight: 'Inter-Light',
+  InterMedium: 'Inter-Medium',
+  InterRegular: 'Inter-Regular',
+  InterSemiBold: 'Inter-SemiBold',
+  InterThin: 'Inter-Thin',
+  TechnorBlack: 'Technor-Black',
+  TechnorBold: 'Technor-Bold',
+  TechnorMedium: 'Technor-Medium',
+  TechnorRegular: 'Technor-Regular',
+  TechnorSemibold: 'Technor-Semibold',
+};
